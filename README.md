@@ -4,6 +4,12 @@ A **cross-platform** AI-powered speech-to-text and text-to-speech application th
 
 [![Latest Version](https://img.shields.io/github/v/release/blockchainadvisors/aitextvoice-releases)](https://github.com/blockchainadvisors/aitextvoice-releases/releases/latest)
 
+## Demo
+
+https://github.com/blockchainadvisors/aitextvoice-releases/raw/main/docs/screenshots/demo.mp4
+
+![AITextVoice in action - Real-time transcription overlay](docs/screenshots/hero-listening.png)
+
 ## Features
 
 - **100% Local Processing**: All speech recognition and text-to-speech runs on your machine - no data sent to the cloud
@@ -65,6 +71,10 @@ A **cross-platform** AI-powered speech-to-text and text-to-speech application th
 2. **Speak** - Your words appear in real-time in the overlay
 3. **Press Ctrl+Ctrl again** - Stop listening and copy text to clipboard
 
+![Real-time transcription appearing in the overlay](docs/screenshots/transcription.png)
+
+![Transcribed text auto-inserted into your application](docs/screenshots/auto-insert.png)
+
 ### Text-to-Speech
 
 1. **Copy text** to your clipboard
@@ -85,6 +95,8 @@ The tray icon indicates current state:
 ## Settings
 
 Access settings via **right-click tray icon → Settings**.
+
+![Settings window - STT configuration](docs/screenshots/settings-stt.png)
 
 ### STT Tab
 - **Language**: Select from 99+ supported languages
